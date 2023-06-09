@@ -1,2 +1,2 @@
 # PrepCourseHenry
-Repo de prueba del modulo 2 del prepcourse
+Prueba de como crear un repo y clonarlo usando git
